@@ -2,10 +2,13 @@
 
 ---
 
-### Deep NLP for hate speech detection
+### Study of Extent of Arctic Sea Ice
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+The increase in global warming has fastened the melting of ice in the polar region. Using pandas, matplotlib and seaborn we tried to look closely at the situation at the Arctic. 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+![Arctic](https://github.com/shubhamalik2000/portfolio/assets/157113872/f0ddacef-9212-48d4-943c-96416315453e)
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
+
+[View code on Github]
