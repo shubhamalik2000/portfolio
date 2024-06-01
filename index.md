@@ -13,6 +13,18 @@ The increase in global warming has fastened the melting of ice in the polar regi
 
 
 ---
+### US housing model
+
+The project required studying US housing market and identifying factors influencing the cost!
+
+![corr](https://github.com/shubhamalik2000/portfolio/assets/157113872/36dbc258-5b2a-47d7-8039-5060d74ee3da)
+
+[Check out this deployement! Try estimating cost yourself](https://ushousingrate.streamlit.app/)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+---
+
 ### Stock Price Prediction for Amazon
 
 Analysis of the previous years data revealed important findings! 
